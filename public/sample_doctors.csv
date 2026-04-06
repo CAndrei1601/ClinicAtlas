@@ -1,0 +1,11 @@
+Doctor Name,Address,City,County,Schedule,Phone,Clinic,Specialty
+Dr. Maria Ionescu,Strada Victoriei Nr. 12,București,Sector 1,Lun-Vin 09:00-17:00,+40721234567,Clinica Sfântul Spiridon,Cardiologie
+Dr. Alexandru Popa,Bulevardul Unirii Nr. 45 Bl. A3,Cluj-Napoca,Cluj,Lun-Joi 10:00-18:00,+40722345678,Spitalul Județean Cluj,Neurologie
+Dr. Elena Munteanu,Calea Victoriei Nr. 78,Iași,Iași,Mar-Sâm 08:00-14:00,+40733456789,Clinica Moldova,Pediatrie
+Dr. Ion Georgescu,Strada Mihai Eminescu Nr. 23,Timișoara,Timiș,Lun-Vin 08:00-16:00,+40744567890,Spitalul Județean Timișoara,Ortopedie
+Dr. Ana Constantin,Aleea Rozelor Nr. 5,Constanța,Constanța,Lun-Vin 09:00-17:00,+40755678901,Clinica Dobrogea,Dermatologie
+Dr. Mihai Dumitrescu,Strada Independenței Nr. 34,Brașov,Brașov,Mar-Sâm 10:00-18:00,+40766789012,Clinica Carpați,Oftalmologie
+Dr. Ioana Radu,Bulevardul Decebal Nr. 56,Craiova,Dolj,Lun-Vin 08:00-16:00,+40777890123,Spitalul Județean Dolj,Ginecologie
+Dr. Cristian Popescu,Strada Avram Iancu Nr. 89,Oradea,Bihor,Lun-Joi 09:00-17:00,+40788901234,Clinica Bihor,Urologie
+Dr. Roxana Stancu,Calea Dorobanților Nr. 12,București,Sector 2,Lun-Vin 10:00-18:00,+40799012345,Clinica Dorobanți,Endocrinologie
+Dr. Bogdan Nistor,Strada Republicii Nr. 67,Galați,Galați,Mar-Sâm 08:00-14:00,+40710123456,Spitalul Județean Galați,Gastroenterologie
