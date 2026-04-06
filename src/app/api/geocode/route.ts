@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 
 const CACHE_PATH = process.env.GEOCODING_CACHE_PATH || "./geocoding-cache.json";
-const USER_AGENT = process.env.NOMINATIM_USER_AGENT || "doctor-mapper/1.0";
+const USER_AGENT = process.env.NOMINATIM_USER_AGENT || "clinic-atlas/1.0";
 
 // Romania bounding box — discard results outside this area
 const ROMANIA = { latMin: 43.5, latMax: 48.3, lngMin: 20.2, lngMax: 30.0 };

@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Doctor Mapper — Map Doctors from Excel",
+  title: "ClinicAtlas — Map Doctors from Excel",
   description:
     "Upload an Excel or CSV file with doctor data, geocode addresses, visualize on an interactive map, and export for Google My Maps.",
 };

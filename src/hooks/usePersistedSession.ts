@@ -4,7 +4,7 @@
  * Persist the current doctor dataset (records + fileName) to localStorage so
  * that a page refresh restores the map without re-uploading or re-geocoding.
  *
- * Storage key:  "doctor-mapper-session"
+ * Storage key:  "clinic-atlas-session"
  * Stored shape: { version, fileName, records }
  *
  * `version` lets us invalidate stale shapes if we ever change DoctorRecord.
@@ -12,7 +12,7 @@
 
 import type { DoctorRecord } from "@/types";
 
-const STORAGE_KEY = "doctor-mapper-session";
+const STORAGE_KEY = "clinic-atlas-session";
 const SCHEMA_VERSION = 1;
 
 interface PersistedSession {

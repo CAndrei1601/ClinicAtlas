@@ -185,7 +185,7 @@ export default function Home() {
             <MapPin className="w-4 h-4 md:w-5 md:h-5 text-white" />
           </div>
           <div>
-            <h1 className="text-base md:text-lg font-bold text-slate-900 leading-tight">Doctor Mapper</h1>
+            <h1 className="text-base md:text-lg font-bold text-slate-900 leading-tight">ClinicAtlas</h1>
             <p className="hidden md:block text-xs text-slate-500">Excel → Interactive Map → Google My Maps</p>
           </div>
         </div>
