@@ -1,0 +1,512 @@
+{
+  "Strada Clinicilor Nr. 1, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7652868,
+    "longitude": 23.5802072,
+    "displayName": "Strada Clinicilor, Centru, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400006, România",
+    "cachedAt": "2026-04-06T08:42:37.669Z"
+  },
+  "Strada Nicolae Iorga Nr. 50, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7831135,
+    "longitude": 24.1597955,
+    "displayName": "Strada Nicolae Iorga, Hipodrom I, Sibiu, 550361, România",
+    "cachedAt": "2026-04-06T08:42:40.545Z"
+  },
+  "Strada Iuliu Maniu Nr. 49, Brasov, Brasov, Romania": {
+    "latitude": 45.6499845,
+    "longitude": 25.6031606,
+    "displayName": "Strada Iuliu Maniu, Centrul Nou, Brașov, Zona Metropolitană Brașov, Brașov, 500091, România",
+    "cachedAt": "2026-04-06T08:42:41.987Z"
+  },
+  "Strada Traian Mosoiu Nr. 63, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7700586,
+    "longitude": 23.6033182,
+    "displayName": "Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400132, România",
+    "cachedAt": "2026-04-06T08:42:44.462Z"
+  },
+  "Calea Turzii Nr. 140, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7583574,
+    "longitude": 23.5981195,
+    "displayName": "Calea Turzii, Andrei Mureșanu, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400068, România",
+    "cachedAt": "2026-04-06T08:42:45.756Z"
+  },
+  "Strada Gheorghe Marinescu Nr. 53, Targu Mures, Mures, Romania": {
+    "latitude": 46.5554103,
+    "longitude": 24.5799206,
+    "displayName": "Strada Gheorghe Marinescu, 22 Decembrie 1989, Târgu Mureș, Zona Metropolitană Târgu Mureș, Mureș, 540140, România",
+    "cachedAt": "2026-04-06T08:42:47.164Z"
+  },
+  "Calea Motilor Nr. 19, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.765309,
+    "longitude": 23.5769774,
+    "displayName": "Calea Moților, Centru, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400370, România",
+    "cachedAt": "2026-04-06T08:42:49.714Z"
+  },
+  "Calea Dorobantilor Nr. 29, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.77289,
+    "longitude": 23.605576,
+    "displayName": "Calea Dorobanților, Mărăști, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400604, România",
+    "cachedAt": "2026-04-06T08:42:55.363Z"
+  },
+  "Strada Mehedinti Nr. 1, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7503014,
+    "longitude": 23.5571052,
+    "displayName": "Strada Mehedinți, Mănăștur, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400675, România",
+    "cachedAt": "2026-04-06T08:43:02.454Z"
+  },
+  "Strada Gheorghe Marinescu Nr. 49, Targu Mures, Mures, Romania": {
+    "latitude": 46.5515648,
+    "longitude": 24.5751722,
+    "displayName": "Strada Gheorghe Marinescu, Cornișa, Târgu Mureș, Zona Metropolitană Târgu Mureș, Mureș, 540098, România",
+    "cachedAt": "2026-04-06T08:43:04.965Z"
+  },
+  "Strada Iancu De Hunedoara Nr. 32, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7691691,
+    "longitude": 23.5621698,
+    "displayName": "Strada Iancu de Hunedoara, Grigorescu, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400309, România",
+    "cachedAt": "2026-04-06T08:43:06.287Z"
+  },
+  "Strada Turnului Nr. 5, Brasov, Brasov, Romania": {
+    "latitude": 45.6656558,
+    "longitude": 25.609946,
+    "displayName": "Strada Turnului, Tractorul, Brașov, Zona Metropolitană Brașov, Brașov, 500146, România",
+    "cachedAt": "2026-04-06T08:43:20.976Z"
+  },
+  "Strada Somesului Nr. 11, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7899566,
+    "longitude": 24.1487038,
+    "displayName": "Strada Someșului, Orașul de Sus, Centrul Civic, Sibiu, 550003, România",
+    "cachedAt": "2026-04-06T08:43:31.830Z"
+  },
+  "Strada Traian Mosoiu Nr. 62, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7700586,
+    "longitude": 23.6033182,
+    "displayName": "Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400132, România",
+    "cachedAt": "2026-04-06T08:43:36.010Z"
+  },
+  "Strada Gheorghe Marinescu Nr. 4, Targu Mures, Mures, Romania": {
+    "latitude": 46.5554103,
+    "longitude": 24.5799206,
+    "displayName": "Strada Gheorghe Marinescu, 22 Decembrie 1989, Târgu Mureș, Zona Metropolitană Târgu Mureș, Mureș, 540140, România",
+    "cachedAt": "2026-04-06T08:43:38.520Z"
+  },
+  "Strada Galati Nr. 2, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7767927,
+    "longitude": 23.6008193,
+    "displayName": "Strada Onisifor Ghibu, Mărăști, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400616, România",
+    "cachedAt": "2026-04-06T08:43:39.989Z"
+  },
+  "Strada Spitalului Nr. 20, Reghin, Mures, Romania": {
+    "latitude": 46.7816674,
+    "longitude": 24.6962298,
+    "displayName": "Strada Spitalului, Reghin, Mureș, 545300, România",
+    "cachedAt": "2026-04-06T08:44:25.929Z"
+  },
+  "Strada Observatorului Nr. 3, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.754357,
+    "longitude": 23.5836562,
+    "displayName": "Strada Observatorului, Zorilor, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400363, România",
+    "cachedAt": "2026-04-06T08:44:32.944Z"
+  },
+  "Strada Aurel Vlaicu Nr. 10, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7814458,
+    "longitude": 23.6340286,
+    "displayName": "Strada Aurel Vlaicu, Între Lacuri, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400599, România",
+    "cachedAt": "2026-04-06T08:45:12.726Z"
+  },
+  "Strada Mircea Zaciu Nr. 2, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7500208,
+    "longitude": 23.5987529,
+    "displayName": "Strada Mircea Zaciu, Bună Ziua, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400494, România",
+    "cachedAt": "2026-04-06T08:45:22.352Z"
+  },
+  "Strada Traian Mosoiu Nr. 60, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7700586,
+    "longitude": 23.6033182,
+    "displayName": "Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400132, România",
+    "cachedAt": "2026-04-06T08:45:24.731Z"
+  },
+  "Strada Traian Mosoiu Nr. 65, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.770003,
+    "longitude": 23.6031917,
+    "displayName": "Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400130, România",
+    "cachedAt": "2026-04-06T08:45:35.181Z"
+  },
+  "Strada Magheranului Nr. 94, Sibiu, Sibiu, Romania": {
+    "latitude": 45.8051787,
+    "longitude": 24.134775,
+    "displayName": "Strada Măgheranului, Țiglari, Sibiu, 550132, România",
+    "cachedAt": "2026-04-06T08:45:51.912Z"
+  },
+  "Aleea Rozelor Nr. 5, Constanța, Constanța, Romania": {
+    "latitude": 44.2271006,
+    "longitude": 28.4089962,
+    "displayName": "Aleea Rozelor, Cretari, Poarta Albă, Constanța, 907245, România",
+    "cachedAt": "2026-04-06T09:58:20.007Z"
+  },
+  "Strada Independenței Nr. 34, Brașov, Brașov, Romania": {
+    "latitude": 45.6666284,
+    "longitude": 25.5966863,
+    "displayName": "Strada Independenței, Tractorul, Brașov, Zona Metropolitană Brașov, Brașov, 500157, România",
+    "cachedAt": "2026-04-06T09:58:21.488Z"
+  },
+  "Bulevardul Decebal Nr. 56, Craiova, Dolj, Romania": {
+    "latitude": 44.315783,
+    "longitude": 23.8341824,
+    "displayName": "Bulevardul Decebal, Lăpuș - Argeș, Craiova, Zona Metropolitană Craiova, Dolj, 200618, România",
+    "cachedAt": "2026-04-06T09:58:22.853Z"
+  },
+  "Strada Avram Iancu Nr. 89, Oradea, Bihor, Romania": {
+    "latitude": 47.052837,
+    "longitude": 21.9277824,
+    "displayName": "Strada Avram Iancu, Orașul Nou, Oradea, Zona Metropolitană Oradea, Bihor, 410104, România",
+    "cachedAt": "2026-04-06T09:58:24.279Z"
+  },
+  "Strada Republicii Nr. 67, Galați, Galați, Romania": {
+    "latitude": 45.8446631,
+    "longitude": 27.4322635,
+    "displayName": "Strada Republicii, Tecuci, Galați, 805300, România",
+    "cachedAt": "2026-04-06T09:58:27.188Z"
+  },
+  "B1, Romania": {
+    "latitude": 45.1110027,
+    "longitude": 25.9055933,
+    "displayName": "B1, Cocorăștii Mislii, Prahova, 107655, România",
+    "cachedAt": "2026-04-06T10:13:37.373Z"
+  },
+  "IF, Romania": {
+    "latitude": 44.5017074,
+    "longitude": 26.2449077,
+    "displayName": "Ilfov, România",
+    "cachedAt": "2026-04-06T10:13:38.697Z"
+  },
+  "B2, Romania": {
+    "latitude": 45.1279096,
+    "longitude": 25.8717273,
+    "displayName": "B2, Scorțeni, Prahova, 107189, România",
+    "cachedAt": "2026-04-06T10:13:43.278Z"
+  },
+  "BZ, Romania": {
+    "latitude": 45.2692582,
+    "longitude": 26.7748173,
+    "displayName": "Buzău, România",
+    "cachedAt": "2026-04-06T10:13:44.603Z"
+  },
+  "DB, Romania": {
+    "latitude": 44.9224565,
+    "longitude": 25.4819575,
+    "displayName": "Dâmbovița, România",
+    "cachedAt": "2026-04-06T10:13:45.967Z"
+  },
+  "BC, Romania": {
+    "latitude": 46.4228703,
+    "longitude": 26.7163991,
+    "displayName": "Bacău, România",
+    "cachedAt": "2026-04-06T10:13:50.117Z"
+  },
+  "NT, Romania": {
+    "latitude": 46.9910082,
+    "longitude": 26.5134813,
+    "displayName": "Neamț, România",
+    "cachedAt": "2026-04-06T10:13:52.678Z"
+  },
+  "Area 4, Romania": {
+    "latitude": 44.3170724,
+    "longitude": 23.7993987,
+    "displayName": "4, Strada România Muncitoare, Centrul Istoric, Craiova, Zona Metropolitană Craiova, Dolj, 200730, România",
+    "cachedAt": "2026-04-06T10:13:55.649Z"
+  },
+  "BR, Romania": {
+    "latitude": 45.5828388,
+    "longitude": 25.0851223,
+    "displayName": "BR, Rucăr, Argeș, 507070, România",
+    "cachedAt": "2026-04-06T10:13:56.989Z"
+  },
+  "CT, Romania": {
+    "latitude": 44.9593697,
+    "longitude": 24.9454719,
+    "displayName": "CT, 2, Strada Livezilor, Mioveni, Argeș, 115400, România",
+    "cachedAt": "2026-04-06T10:13:58.230Z"
+  },
+  "GL, Romania": {
+    "latitude": 45.7772439,
+    "longitude": 27.7496575,
+    "displayName": "Galați, România",
+    "cachedAt": "2026-04-06T10:13:59.737Z"
+  },
+  "DJ, Romania": {
+    "latitude": 44.2150123,
+    "longitude": 23.669363,
+    "displayName": "Dolj, România",
+    "cachedAt": "2026-04-06T10:14:05.533Z"
+  },
+  "OT, Romania": {
+    "latitude": 44.2923205,
+    "longitude": 24.4663072,
+    "displayName": "Olt, România",
+    "cachedAt": "2026-04-06T10:14:06.902Z"
+  },
+  "VL, Romania": {
+    "latitude": 45.1948651,
+    "longitude": 24.0330243,
+    "displayName": "Peștera Valea Bistrița, Costești, Vâlcea, România",
+    "cachedAt": "2026-04-06T10:14:08.191Z"
+  },
+  "Area 6, Romania": {
+    "latitude": 46.779205,
+    "longitude": 23.6315324,
+    "displayName": "Fujikura Automotive Romania, 18, Între Lacuri, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, România",
+    "cachedAt": "2026-04-06T10:14:09.839Z"
+  },
+  "BV, Romania": {
+    "latitude": 45.7860222,
+    "longitude": 25.1540732,
+    "displayName": "Brașov, România",
+    "cachedAt": "2026-04-06T10:14:11.278Z"
+  },
+  "CJ, Romania": {
+    "latitude": 46.8884587,
+    "longitude": 23.7195121,
+    "displayName": "Cluj, România",
+    "cachedAt": "2026-04-06T10:14:12.568Z"
+  },
+  "SB, Romania": {
+    "latitude": 45.8887961,
+    "longitude": 24.237426,
+    "displayName": "Sibiu, România",
+    "cachedAt": "2026-04-06T10:14:16.352Z"
+  },
+  "BH, Romania": {
+    "latitude": 46.99269,
+    "longitude": 22.192752,
+    "displayName": "Bihor, România",
+    "cachedAt": "2026-04-06T10:14:21.625Z"
+  },
+  "HD, Romania": {
+    "latitude": 45.7954068,
+    "longitude": 22.945243,
+    "displayName": "Hunedoara, România",
+    "cachedAt": "2026-04-06T10:14:23.111Z"
+  },
+  "TM, Romania": {
+    "latitude": 45.7538355,
+    "longitude": 21.2257474,
+    "displayName": "Timișoara, Timiș, România",
+    "cachedAt": "2026-04-06T10:14:24.427Z"
+  },
+  "Strada CLINICILOR Nr. 1, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7665993,
+    "longitude": 23.5849751,
+    "displayName": "Strada Clinicilor, Centru, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400013, România",
+    "cachedAt": "2026-04-06T11:48:44.778Z"
+  },
+  "Bulevardul 21 DECEMBRIE Nr. 131, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7773365,
+    "longitude": 23.6115408,
+    "displayName": "Denis, 131-135, Bulevardul 21 Decembrie 1989, Mărăști, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400602, România",
+    "cachedAt": "2026-04-06T11:48:46.164Z"
+  },
+  "Strada NICOLAE IORGA Nr. 50, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7813223,
+    "longitude": 24.1575114,
+    "displayName": "Dispensar Cedonia, 50, Strada Nicolae Iorga, Hipodrom II, Sibiu, 550361, România",
+    "cachedAt": "2026-04-06T11:48:47.433Z"
+  },
+  "Strada IULIU MANIU Nr. 49, Brasov, Brasov, Romania": {
+    "latitude": 45.6509676,
+    "longitude": 25.6067302,
+    "displayName": "Spitalul Sfântul Constantin, 49, Strada Iuliu Maniu, Centrul Nou, Brașov, Zona Metropolitană Brașov, Brașov, 500091, România",
+    "cachedAt": "2026-04-06T11:48:48.712Z"
+  },
+  "Strada TRAIAN MOSOIU Nr. 63, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7714878,
+    "longitude": 23.6066511,
+    "displayName": "63, Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400132, România",
+    "cachedAt": "2026-04-06T11:48:51.125Z"
+  },
+  "CALEA TURZII Nr. 140, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7537825,
+    "longitude": 23.5954536,
+    "displayName": "140, Calea Turzii, Bună Ziua, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400501, România",
+    "cachedAt": "2026-04-06T11:48:52.670Z"
+  },
+  "Strada GHEORGHE MARINESCU Nr. 53, Targu Mures, Mures, Romania": {
+    "latitude": 46.5585191,
+    "longitude": 24.5774689,
+    "displayName": "Strada Gheorghe Marinescu, 22 Decembrie 1989, Târgu Mureș, Zona Metropolitană Târgu Mureș, Mureș, 540136, România",
+    "cachedAt": "2026-04-06T11:48:53.968Z"
+  },
+  "CALEA MOTILOR Nr. 19, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7671739,
+    "longitude": 23.5832868,
+    "displayName": "Institutul Inimii Niculae Stăncioiu, 19, Calea Moților, Centru, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400001, România",
+    "cachedAt": "2026-04-06T11:48:56.387Z"
+  },
+  "CALEA DOROBANTILOR Nr. 29, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7731579,
+    "longitude": 23.6024307,
+    "displayName": "Spitalul Regina Maria, 29, Calea Dorobanților, Centru, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400117, România",
+    "cachedAt": "2026-04-06T11:49:02.983Z"
+  },
+  "Strada MEHEDINTI Nr. 1, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.754721,
+    "longitude": 23.5610381,
+    "displayName": "1-3, Strada Mehedinți, Mănăștur, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400655, România",
+    "cachedAt": "2026-04-06T11:49:09.983Z"
+  },
+  "Strada GHEORGHE MARINESCU Nr. 49, Targu Mures, Mures, Romania": {
+    "latitude": 46.558045,
+    "longitude": 24.5777588,
+    "displayName": "49, Strada Gheorghe Marinescu, 22 Decembrie 1989, Târgu Mureș, Zona Metropolitană Târgu Mureș, Mureș, 540136, România",
+    "cachedAt": "2026-04-06T11:49:12.364Z"
+  },
+  "Strada IANCU DE HUNEDOARA Nr. 32, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7683963,
+    "longitude": 23.5619892,
+    "displayName": "Regina Maria Policlinica E. Grigorescu, 32, Strada Iancu de Hunedoara, Grigorescu, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400309, România",
+    "cachedAt": "2026-04-06T11:49:13.680Z"
+  },
+  "Strada STRANDULUI Nr. 20A, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7857568,
+    "longitude": 24.1365373,
+    "displayName": "Strada Ștrandului, Ștrand, Sibiu, 550068, România",
+    "cachedAt": "2026-04-06T11:49:22.048Z"
+  },
+  "Strada IZVORULUI Nr. 1A, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7937736,
+    "longitude": 24.1578798,
+    "displayName": "Polisano, 1 A, Strada Izvorului, Orașul de Sus, Trei Stejari, Sibiu, 550172, România",
+    "cachedAt": "2026-04-06T11:49:30.714Z"
+  },
+  "Strada TURNULUI Nr. 5, Brasov, Brasov, Romania": {
+    "latitude": 45.6653892,
+    "longitude": 25.6152886,
+    "displayName": "5, Strada Turnului, Tractorul, Brașov, Zona Metropolitană Brașov, Brașov, 500148, România",
+    "cachedAt": "2026-04-06T11:49:33.091Z"
+  },
+  "Bulevardul 21 DECEMBRIE Nr. 57, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7747192,
+    "longitude": 23.6007718,
+    "displayName": "57, Bulevardul 21 Decembrie 1989, Mărăști, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400124, România",
+    "cachedAt": "2026-04-06T11:49:43.616Z"
+  },
+  "Strada SOMESULUI Nr. 11, Sibiu, Sibiu, Romania": {
+    "latitude": 45.788778,
+    "longitude": 24.148637,
+    "displayName": "11, Strada Someșului, Orașul de Sus, Centrul Civic, Sibiu, 550003, România",
+    "cachedAt": "2026-04-06T11:49:46.556Z"
+  },
+  "Strada TRAIAN MOSOIU Nr. 62, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7711426,
+    "longitude": 23.6063946,
+    "displayName": "62, Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400132, România",
+    "cachedAt": "2026-04-06T11:49:52.433Z"
+  },
+  "Strada GHEORGHE MARINESCU Nr. 4, Targu Mures, Mures, Romania": {
+    "latitude": 46.5509657,
+    "longitude": 24.5743475,
+    "displayName": "4, Strada Gheorghe Marinescu, Cornișa, Târgu Mureș, Zona Metropolitană Târgu Mureș, Mureș, 540098, România",
+    "cachedAt": "2026-04-06T11:49:54.833Z"
+  },
+  "Strada GALATI Nr. 2, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7746256,
+    "longitude": 23.6283522,
+    "displayName": "Park Lake Residence 1, 2, Strada Galați, Între Lacuri, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400600, România",
+    "cachedAt": "2026-04-06T11:49:56.121Z"
+  },
+  "Strada SPITALULUI Nr. 20, Reghin, Mures, Romania": {
+    "latitude": 46.7829555,
+    "longitude": 24.6952199,
+    "displayName": "Spitalul Municipal Dr. Eugen Nicoară, 20, Strada Spitalului, Reghin, Mureș, 545300, România",
+    "cachedAt": "2026-04-06T11:51:17.845Z"
+  },
+  "Strada OBSERVATORULUI Nr. 3, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7556972,
+    "longitude": 23.5901971,
+    "displayName": "3, Strada Observatorului, Zorilor, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400500, România",
+    "cachedAt": "2026-04-06T11:51:29.437Z"
+  },
+  "Strada BUCEGI Nr. 13-15, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7551653,
+    "longitude": 23.5587691,
+    "displayName": "Banca Transilvania, 13-15, Strada Bucegi, Mănăștur, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400667, România",
+    "cachedAt": "2026-04-06T11:51:43.607Z"
+  },
+  "Strada AUREL VLAICU Nr. 10, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7785922,
+    "longitude": 23.6190639,
+    "displayName": "Lavitamed, 10, Strada Aurel Vlaicu, Mărăști, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400124, România",
+    "cachedAt": "2026-04-06T11:52:35.170Z"
+  },
+  "Bulevardul CORNELIU COPOSU Nr. 2, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7915098,
+    "longitude": 24.1497156,
+    "displayName": "Street Art - Ziarul Orizontal, 2, Bulevardul Corneliu Coposu, Orașul de Sus, Centrul Civic, Sibiu, 550173, România",
+    "cachedAt": "2026-04-06T11:52:38.690Z"
+  },
+  "Strada MIRCEA ZACIU Nr. 2, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7500208,
+    "longitude": 23.5987529,
+    "displayName": "Strada Mircea Zaciu, Bună Ziua, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400494, România",
+    "cachedAt": "2026-04-06T11:52:46.781Z"
+  },
+  "Strada TRAIAN MOSOIU Nr. 60, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7708938,
+    "longitude": 23.6062916,
+    "displayName": "Clinica Gynia, 60, Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400132, România",
+    "cachedAt": "2026-04-06T11:52:49.179Z"
+  },
+  "Strada TRAIAN MOSOIU Nr. 65, Cluj Napoca, Cluj, Romania": {
+    "latitude": 46.7715816,
+    "longitude": 23.6067897,
+    "displayName": "65, Strada General Traian Moșoiu, Gheorgheni, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400132, România",
+    "cachedAt": "2026-04-06T11:53:04.170Z"
+  },
+  "Strada MAGHERANULUI Nr. 94, Sibiu, Sibiu, Romania": {
+    "latitude": 45.8084014,
+    "longitude": 24.1404139,
+    "displayName": "94, Strada Măgheranului, Terezian, Sibiu, 550125, România",
+    "cachedAt": "2026-04-06T11:53:25.155Z"
+  },
+  "Calea Dorobanților Nr. 12, București, Sector 2, Romania": {
+    "latitude": 44.4472855,
+    "longitude": 26.099545,
+    "displayName": "12, Calea Dorobanților, Dorobanți, Sector 1, București, 010572, România",
+    "cachedAt": "2026-04-06T12:07:48.548Z"
+  },
+  "Bulevardul 21 Decembrie Nr. 131, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7774966,
+    "longitude": 23.6114634,
+    "displayName": "Napofarm, 131-135, Bulevardul 21 Decembrie 1989, Mărăști, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400602, România",
+    "cachedAt": "2026-04-06T13:01:48.790Z"
+  },
+  "Strada Strandului Nr. 20a, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7900583,
+    "longitude": 24.1362881,
+    "displayName": "Strada Ștrandului, Ștrand, Sibiu, 550017, România",
+    "cachedAt": "2026-04-06T13:02:24.890Z"
+  },
+  "Strada Izvorului Nr. 1a, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7937736,
+    "longitude": 24.1578798,
+    "displayName": "Polisano, 1 A, Strada Izvorului, Orașul de Sus, Trei Stejari, Sibiu, 550172, România",
+    "cachedAt": "2026-04-06T13:02:33.945Z"
+  },
+  "Bulevardul 21 Decembrie Nr. 57, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7747192,
+    "longitude": 23.6007718,
+    "displayName": "57, Bulevardul 21 Decembrie 1989, Mărăști, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400124, România",
+    "cachedAt": "2026-04-06T13:02:47.427Z"
+  },
+  "Strada Bucegi Nr. 13-15, Cluj-Napoca, Cluj, Romania": {
+    "latitude": 46.7551653,
+    "longitude": 23.5587691,
+    "displayName": "Banca Transilvania, 13-15, Strada Bucegi, Mănăștur, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400667, România",
+    "cachedAt": "2026-04-06T13:05:12.871Z"
+  },
+  "Bulevardul Corneliu Coposu Nr. 2, Sibiu, Sibiu, Romania": {
+    "latitude": 45.7915098,
+    "longitude": 24.1497156,
+    "displayName": "Street Art - Ziarul Orizontal, 2, Bulevardul Corneliu Coposu, Orașul de Sus, Centrul Civic, Sibiu, 550173, România",
+    "cachedAt": "2026-04-06T13:06:25.783Z"
+  }
+}
