@@ -8,6 +8,11 @@ export const metadata: Metadata = {
   title: "ClinicAtlas — Map Doctors from Excel",
   description:
     "Upload an Excel or CSV file with doctor data, geocode addresses, visualize on an interactive map, and export for Google My Maps.",
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    viewportFit: "cover",
+  },
 };
 
 export default function RootLayout({

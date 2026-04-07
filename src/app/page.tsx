@@ -533,7 +533,7 @@ export default function Home() {
             )}
 
             {/* ── Mobile bottom navigation ──────────────────────────────────────── */}
-            <nav className="md:hidden bg-white border-t border-slate-200 flex flex-shrink-0">
+            <nav className="md:hidden bg-white border-t border-slate-200 flex flex-shrink-0" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
               {(
                 [
                   { id: "map",          label: "Map",     Icon: Map      },
