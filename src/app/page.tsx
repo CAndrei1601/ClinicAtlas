@@ -177,7 +177,7 @@ export default function Home() {
   const failedCount = records.filter((r) => r.geocodingStatus === "failed").length;
 
   return (
-    <div className="h-screen flex flex-col overflow-hidden">
+    <div className="h-dvh flex flex-col overflow-hidden">
       {/* Header */}
       <header className="bg-white border-b border-slate-200 px-4 md:px-6 py-3 md:py-4 flex items-center justify-between sticky top-0 z-50 shadow-sm">
         <div className="flex items-center gap-2 md:gap-3">

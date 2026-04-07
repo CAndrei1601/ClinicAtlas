@@ -10,7 +10,7 @@
 
 html,
 body {
-  height: 100%;
+  height: 100dvh; /* 100dvh shrinks when iOS Safari toolbar is visible, preventing overflow */
   overflow: hidden; /* prevent Leaflet body-level elements from creating page scrollbars */
 }
 
